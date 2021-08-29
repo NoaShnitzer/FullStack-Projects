@@ -1,0 +1,16 @@
+{
+     "Permissions": [
+          {
+               "_id":"60cb298b4edfa0b61a8aa2f7",
+               "ViewSubscriptions": true,
+               "CreateSubscriptions": true,
+               "UpdateSubscriptions": true,
+               "DeleteSubscriptions": true,
+               "ViewMovies": true,
+               "CreateMovies": true,
+               "UpdateMovies": true,
+               "DeleteMovies": true
+          }
+     ]
+}
+

@@ -1,0 +1,13 @@
+{
+   "Users": [
+    {
+        "_id":"60cb298b4edfa0b61a8aa2f7",
+        "isAdmin": true,
+        "FirstName": "Noa",
+        "LastName": "Shnitzer",
+        "CreatedDate": "01/01/2021",
+        "SessionTimeOut": ""
+       }
+   ]
+}
+
